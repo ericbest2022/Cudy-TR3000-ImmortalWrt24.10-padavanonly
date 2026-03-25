@@ -19,7 +19,7 @@ REPO_URL: https://github.com/padavanonly/immortalwrt-mt798x-6.6
 
 ## 默认设置
 
-默认IP：192.168.10.1
+默认IP：192.168.233.1
 
 用户名：root
 
