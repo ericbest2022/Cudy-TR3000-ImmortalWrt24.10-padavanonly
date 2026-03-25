@@ -11,6 +11,11 @@
 - config 是 Immortalwrt24.10-padavanonly-Cudy-TR3000
 
 
+## Version
+REPO_URL: https://github.com/padavanonly/immortalwrt-mt798x-6.6
+  
+  REPO_BRANCH: openwrt-24.10-6.6
+  
 
 ## 默认设置
 
