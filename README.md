@@ -1,14 +1,7 @@
 # Cudy-TR3000-V1-112M-ImmortalWrt24.10-padavanonly
 
-# 测试OK
-- WiFi稳定，测试速度比 ImmortalWrt25.12 快一些
-- WiFi 的 WPA3 加密方式全部可用
-- passwall 功能正常
+# 测试中
 
-## 20260324
-- 添加了passwall
-
-- config 是 Immortalwrt24.10-padavanonly-Cudy-TR3000
 
 
 ## Version
