@@ -1,35 +1,27 @@
 # Cudy-TR3000-V1-112M-ImmortalWrt24.10-padavanonly
 
 # 测试OK
-- WiFi稳定
-- WPA3加密OK
+	- WiFi稳定
+	- WPA3加密OK
 
-## 20260320
-- 添加了passwall
+# 20260320
+	- 添加了passwall
+	- config 是 Immortalwrt24.10-padavanonly-Cudy-TR3000
 
-- config 是 Immortalwrt24.10-padavanonly-Cudy-TR3000
 
+# Version
 
-## Version
-REPO_URL: https://github.com/padavanonly/immortalwrt-mt798x-6.6
+	REPO_URL: https://github.com/padavanonly/immortalwrt-mt798x-6.6
+	REPO_BRANCH: openwrt-24.10-6.6
   
-  REPO_BRANCH: openwrt-24.10-6.6
-  
 
-## 默认设置
+# 默认设置
 
 默认IP：192.168.233.1
-
 用户名：root
-
 密码：password
-
 WiFi名称：ImmortalWrt
-
 WiFi密码：123456789
-
-Change Repo to [immortalwrt-mt798x-24.10](https://github.com/padavanonly/immortalwrt-mt798x-6.6)
-BRANCH: openwrt-24.10-6.6
 
 
 
