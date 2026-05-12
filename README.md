@@ -9,16 +9,6 @@
 - config 是 Immortalwrt24.10-padavanonly-Cudy-TR3000
 
 
-# config配置文件
-
-    导入【bnaand/immortalwrt-mt798x-cudy-tr3000-6.6】的 config，添加passwall
-    https://github.com/bnaand/immortalwrt-mt798x-cudy-tr3000-6.6
-
-# 编译环境
-    导入【sagehou/360T7-ImmortalWrt】
-    https://github.com/sagehou/360T7-ImmortalWrt
-
-
 # Version
 
 	REPO_URL: https://github.com/padavanonly/immortalwrt-mt798x-6.6
